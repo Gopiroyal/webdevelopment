@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Boxes</title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="/css/master.css">
+    <div class="firstbox">
+
+    </div>
+    <div class="secondbox">
+
+    </div>
+    <div class="thirdbox">
+
+    </div>
+    <style media="screen">
+      .firstbox { width: 200px; height: 200px; border: solid 10px; padding: 20px; background-color: red;}
+      .secondbox { margin-left: 260px; width: 200px; height: 200px; border: solid 20px;background-color: white;}
+      .thirdbox { margin-left: 500px; width: 200px; height: 200px; border: solid 20px;background-color: green;}
+    </style>
+  </body>
+</html>
